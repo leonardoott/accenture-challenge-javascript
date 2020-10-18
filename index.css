@@ -1,0 +1,139 @@
+.cel
+{
+    width: 600px;
+    height: 800px;
+    background-image: url("img/cel-accenture.png");
+    position: relative;
+}
+
+
+.display-cel
+{
+    position: absolute;
+    width: 202px;
+    height: 149px;
+    margin-left: 198px;
+    margin-top: 233px;
+    padding: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem; 
+}
+
+.btn-cel
+{
+    background-color: transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;  
+    position: absolute;
+}
+
+.btn-1
+{
+    background: url("img/button-1.png") no-repeat scroll 0 0 transparent;
+    width: 62px;
+    height: 40px;
+    margin-left: 176px;
+    margin-top: 505px;
+}
+
+.btn-2
+{
+    background: url("img/button-2.png") no-repeat scroll 0 0 transparent;
+    width: 62px;
+    height: 40px;
+    margin-left: 265px;
+    margin-top: 519px;
+}
+
+.btn-3
+{
+    background: url("img/button-3.png") no-repeat scroll 0 0 transparent;
+    width: 62px;
+    height: 40px;
+    margin-left: 354px;
+    margin-top: 506px;
+}
+
+
+.btn-4
+{
+    background: url("img/button-4.png") no-repeat scroll 0 0 transparent;
+    width: 62px;
+    height: 40px;
+    margin-left: 182px;
+    margin-top: 555px;
+}
+
+.btn-5
+{
+    background: url("img/button-5.png") no-repeat scroll 0 0 transparent;
+    width: 62px;
+    height: 40px;
+    margin-left: 266px;
+    margin-top: 571px;
+}
+
+.btn-6
+{
+    background: url("img/button-6.png") no-repeat scroll 0 0 transparent;
+    width: 62px;
+    height: 40px;
+    margin-left: 351px;
+    margin-top: 554px;
+}
+
+.btn-7
+{
+    background: url("img/button-7.png") no-repeat scroll 0 0 transparent;
+    width: 62px;
+    height: 40px;
+    margin-left: 185px;
+    margin-top: 603px;
+}
+
+.btn-8
+{
+    background: url("img/button-8.png") no-repeat scroll 0 0 transparent;
+    width: 62px;
+    height: 40px;
+    margin-left: 267px;
+    margin-top: 618px;
+}
+
+.btn-9
+{
+    background: url("img/button-9.png") no-repeat scroll 0 0 transparent;
+    width: 62px;
+    height: 40px;
+    margin-left: 350px;
+    margin-top: 604px;
+}
+
+.btn-left
+{
+    background: url("img/button-left.png") no-repeat scroll 0 0 transparent;
+    width: 62px;
+    height: 40px;
+    margin-left: 185px;
+    margin-top: 655px;
+}
+
+.btn-0
+{
+    background: url("img/button-0.png") no-repeat scroll 0 0 transparent;
+    width: 62px;
+    height: 40px;
+    margin-left: 267px;
+    margin-top: 671px;
+}
+
+.btn-right
+{
+    background: url("img/button-right.png") no-repeat scroll 0 0 transparent;
+    width: 62px;
+    height: 40px;
+    margin-left: 348px;
+    margin-top: 655px;
+}
